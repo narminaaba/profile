@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "John Doe",
+      "username": "johndoe123",
+      "email": "johndoe@example.com",
+      "password": 123,
+      "role": "client",
+      "bio": "Admin user with extensive experience in development.",
+      "profileImage": "https://media.istockphoto.com/id/1300845620/vector/user-icon-flat-isolated-on-white-background-user-symbol-vector-illustration.jpg?s=612x612&w=0&k=20&c=yBeyba0hUkh14_jgv1OKqIH0CCSWU_4ckRkAoy2p73o=",
+      "createdAt": "2025-01-01T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "fullName": "Jane Smith",
+      "username": "janesmith456",
+      "email": "janesmith@example.com",
+      "password": 1234,
+      "role": "client",
+      "bio": "A passionate client interested in various services.",
+      "profileImage": "https://media.istockphoto.com/id/1300845620/vector/user-icon-flat-isolated-on-white-background-user-symbol-vector-illustration.jpg?s=612x612&w=0&k=20&c=yBeyba0hUkh14_jgv1OKqIH0CCSWU_4ckRkAoy2p73o=",
+      "createdAt": "2025-01-02T12:00:00Z"
+    },
+    {
+      "id": "3",
+      "fullName": "Alice Johnson",
+      "username": "alicejohnson789",
+      "email": "alicej@example.com",
+      "password": 12345,
+      "role": "client",
+      "bio": "An avid traveler and nature lover.",
+      "profileImage": "https://media.istockphoto.com/id/1300845620/vector/user-icon-flat-isolated-on-white-background-user-symbol-vector-illustration.jpg?s=612x612&w=0&k=20&c=yBeyba0hUkh14_jgv1OKqIH0CCSWU_4ckRkAoy2p73o=",
+      "createdAt": "2025-01-03T12:00:00Z"
+    },
+    {
+      "id": "4",
+      "fullName": "Michael Brown",
+      "username": "michaelbrown101",
+      "email": "michaelb@example.com",
+      "password": 123456,
+      "role": "client",
+      "bio": "Experienced tech lead with a focus on AI projects.",
+      "profileImage": "https://media.istockphoto.com/id/1300845620/vector/user-icon-flat-isolated-on-white-background-user-symbol-vector-illustration.jpg?s=612x612&w=0&k=20&c=yBeyba0hUkh14_jgv1OKqIH0CCSWU_4ckRkAoy2p73o=",
+      "createdAt": ""
+    }
+  ]
+}

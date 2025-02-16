@@ -1,0 +1,28 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.hello {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15rem auto;
+}
+
+.home {
+    text-decoration: none;
+    color: white;
+}
+
+.sign {
+    text-decoration: none;
+    color: black;
+}
+
+.login {
+    text-decoration: none;
+    color: white;
+}
