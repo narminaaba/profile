@@ -32,8 +32,8 @@ settingsForm.addEventListener("submit", async function (e) {
             text: "Something went wrong!",
         });
         return;
-    } else if (dublicateUser) {
-        const updateUser = new User(
+    } else  {
+        const updateUser = userDetail(
             settingsInputs.fullName.value.trim(),
             settingsInputs.username.value.trim(),
             settingsInputs.email.value.trim(),
@@ -55,5 +55,6 @@ settingsForm.addEventListener("submit", async function (e) {
                 }, 1500);
             }
         })
-    }
+    } 
+    return dublicateUser; 
 })
